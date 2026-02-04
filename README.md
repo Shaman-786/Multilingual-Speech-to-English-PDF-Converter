@@ -36,7 +36,9 @@ A simple web-based application that allows users to speak in multiple languages 
 - Translation API has usage limits (free tier)
 
 ## 📸 Screenshot
-![Uploading screencapture-file-C-Users-ADMIN-Desktop-translate-html-2026-02-04-10_19_26 (1).png…]()
+<img width="997" height="1383" alt="screencapture-file-C-Users-ADMIN-Desktop-translate-html-2026-02-04-10_19_26 (1)" src="https://github.com/user-attachments/assets/88d3661a-9355-46fe-8acb-6be98ab2bb89" />
+
+
 
 
 ## 📄 License
